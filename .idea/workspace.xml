@@ -4,13 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0e335720-677b-48d2-b6ae-2e6d42bac9d4" name="Changes" comment="dz">
-      <change afterPath="$PROJECT_DIR$/src/sem2/babl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sem2/homework01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sem2/homework02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sem2/homework04.java" afterDir="false" />
+    <list default="true" id="0e335720-677b-48d2-b6ae-2e6d42bac9d4" name="Changes" comment="dz1">
+      <change afterPath="$PROJECT_DIR$/src/sem3/hw01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem3/hw02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem3/hw03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tst.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dzMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dzMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sem2/homework02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem2/homework02.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +33,14 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="07c43209-c3e6-4ce6-b521-a5cf5fb65608" />
+        <option name="url" value="https://github.com/MoskalchenkoRoman/dzjava.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -50,6 +58,11 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="sem2" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -66,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670529986385</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="dz1">
+      <created>1670930369864</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670930369864</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -82,6 +102,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="dz" />
-    <option name="LAST_COMMIT_MESSAGE" value="dz" />
+    <MESSAGE value="dz1" />
+    <option name="LAST_COMMIT_MESSAGE" value="dz1" />
   </component>
 </project>
