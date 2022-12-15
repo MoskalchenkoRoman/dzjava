@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0e335720-677b-48d2-b6ae-2e6d42bac9d4" name="Changes" comment="dz1">
-      <change afterPath="$PROJECT_DIR$/src/sem3/hw01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sem3/hw02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sem3/hw03.java" afterDir="false" />
+    <list default="true" id="0e335720-677b-48d2-b6ae-2e6d42bac9d4" name="Changes" comment="dz3">
       <change afterPath="$PROJECT_DIR$/tst.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sem2/homework02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem2/homework02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sem3/hw02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem3/hw02.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,14 +47,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "settings.editor.selected.configurable": "advanced.settings"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="sem2" />
@@ -86,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670930369864</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="dz3">
+      <created>1671016149830</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1671016149830</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -103,6 +108,11 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="dz" />
     <MESSAGE value="dz1" />
-    <option name="LAST_COMMIT_MESSAGE" value="dz1" />
+    <MESSAGE value="dz3" />
+    <option name="LAST_COMMIT_MESSAGE" value="dz3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
