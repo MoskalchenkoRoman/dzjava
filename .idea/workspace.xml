@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0e335720-677b-48d2-b6ae-2e6d42bac9d4" name="Changes" comment="dz3.1">
-      <change afterPath="$PROJECT_DIR$/src/sem4/hw1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sem4/hw2.java" afterDir="false" />
+    <list default="true" id="0e335720-677b-48d2-b6ae-2e6d42bac9d4" name="Changes" comment="dz4">
+      <change afterPath="$PROJECT_DIR$/src/sem5/hw1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem5/hw2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem5/hw3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -98,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671101998072</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="dz4">
+      <created>1671550954904</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1671550954904</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -117,7 +125,8 @@
     <MESSAGE value="dz1" />
     <MESSAGE value="dz3" />
     <MESSAGE value="dz3.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="dz3.1" />
+    <MESSAGE value="dz4" />
+    <option name="LAST_COMMIT_MESSAGE" value="dz4" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
